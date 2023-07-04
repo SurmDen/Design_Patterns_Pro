@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Observer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
